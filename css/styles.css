@@ -1,0 +1,148 @@
+body {
+  text-align: center;
+  font-family: Georgia, serif;
+  color: #363062;
+  margin:0;
+}
+
+h1 {
+  padding: 10%;
+  padding-bottom: 0;
+  margin-bottom: 0;
+  font-family: Merienda One;
+  font-size: 5rem;
+  color: #363062;
+  line-height: 2;
+}
+
+h2 {
+  font-family: Montserrat;
+  color: #4D4C7D;
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-family: Montserrat;
+  color: #363062;
+  font-size: 1.5rem;
+  line-height: 1;
+}
+
+.head-container + .middle-container {
+  margin-left: 0;
+}
+
+
+.portrait {
+  max-width: 15%;
+  height: auto;
+  padding-top: 2%;
+  margin-bottom: 0;
+}
+
+.corpus {
+  width: 30%;
+  margin: auto;
+  line-height: 2;
+  margin-bottom: 30px;
+}
+
+.head-container {
+  background-color: #E9D5CA;
+  margin: 0;
+  vertical-align: top;
+}
+
+.middle-container {
+  background-color: #827397;
+  vertical-align: top;
+}
+
+.bottom-container {
+  background-color: #4D4C7D;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  }
+
+.img {
+  max-width: 100%;
+  height: auto;
+}
+
+.skills {
+  padding-bottom: 100px;
+}
+
+.skill-row1 {
+  max-width: 50%;
+  margin: 50px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.icon1 {
+  width: 170px;
+  float:left;
+  margin: 20px 15px auto auto;
+}
+
+.skill-row2 {
+  max-width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.icon2 {
+  width: 170px;
+  float:right;
+  margin: 40px auto auto 15px;
+}
+
+
+p {
+  color: #363062
+}
+
+hr{
+  border: dotted #4D4C7D 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+tr {
+  text-align: left;
+}
+
+.btn {
+  background: #edd1c2;
+  background-image: -webkit-linear-gradient(top, #edd1c2, #e0c5b8);
+  background-image: -moz-linear-gradient(top, #edd1c2, #e0c5b8);
+  background-image: -ms-linear-gradient(top, #edd1c2, #e0c5b8);
+  background-image: -o-linear-gradient(top, #edd1c2, #e0c5b8);
+  background-image: linear-gradient(to bottom, #edd1c2, #e0c5b8);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #fae3d7;
+  background-image: -webkit-linear-gradient(top, #fae3d7, #E9D5CA);
+  background-image: -moz-linear-gradient(top, #fae3d7, #E9D5CA);
+  background-image: -ms-linear-gradient(top, #fae3d7, #E9D5CA);
+  background-image: -o-linear-gradient(top, #fae3d7, #E9D5CA);
+  background-image: linear-gradient(to bottom, #fae3d7, #E9D5CA);
+  text-decoration: none;
+}
+
+.Disclaimer {
+  font-size: 0.75rem;
+  color: #E9D5CA;
+}

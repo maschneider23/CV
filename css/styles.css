@@ -3,6 +3,7 @@ body {
   font-family: Georgia, serif;
   color: #363062;
   margin:0;
+  hyphens: auto;
 }
 
 h1 {

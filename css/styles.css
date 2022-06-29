@@ -18,30 +18,26 @@ h1 {
 h2 {
   font-family: Montserrat;
   color: #4D4C7D;
-  font-size: 2.5rem;
+  font-size: 2.6rem;
 }
 
 h3 {
   font-family: Montserrat;
   color: #363062;
-  font-size: 1.5rem;
+  font-size: 1.75rem;
   line-height: 1;
-}
-
-.head-container + .middle-container {
-  margin-left: 0;
 }
 
 
 .portrait {
-  max-width: 15%;
+  max-width: 20%;
   height: auto;
   padding-top: 2%;
   margin-bottom: 0;
 }
 
 .corpus {
-  width: 30%;
+  width: 40%;
   margin: auto;
   line-height: 2;
   margin-bottom: 30px;
@@ -50,12 +46,10 @@ h3 {
 .head-container {
   background-color: #E9D5CA;
   margin: 0;
-  vertical-align: top;
 }
 
 .middle-container {
   background-color: #827397;
-  vertical-align: top;
 }
 
 .bottom-container {
@@ -74,7 +68,7 @@ h3 {
 }
 
 .skill-row1 {
-  max-width: 50%;
+  max-width: 60%;
   margin: 50px auto 100px auto;
   text-align: left;
   line-height: 2;
@@ -87,7 +81,7 @@ h3 {
 }
 
 .skill-row2 {
-  max-width: 50%;
+  max-width: 60%;
   margin: 100px auto 100px auto;
   text-align: left;
   line-height: 2;
@@ -101,7 +95,8 @@ h3 {
 
 
 p {
-  color: #363062
+  color: #363062;
+  font-size: 1.15rem;
 }
 
 hr{
@@ -113,6 +108,11 @@ hr{
 
 tr {
   text-align: left;
+}
+
+td {
+  line-height: 2;
+  font-size: 1.15rem;
 }
 
 .btn {

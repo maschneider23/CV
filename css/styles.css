@@ -19,6 +19,7 @@ h2 {
   font-family: Montserrat;
   color: #4D4C7D;
   font-size: 2.6rem;
+  padding-bottom: 3%;
 }
 
 h3 {
@@ -37,7 +38,7 @@ h3 {
 }
 
 .corpus {
-  width: 40%;
+  width: 50%;
   margin: auto;
   line-height: 2;
   margin-bottom: 30px;
@@ -96,7 +97,7 @@ h3 {
 
 p {
   color: #363062;
-  font-size: 1.15rem;
+  font-size: 18px;
 }
 
 hr{
@@ -112,7 +113,7 @@ tr {
 
 td {
   line-height: 2;
-  font-size: 1.15rem;
+  font-size: 18px;
 }
 
 .btn {
@@ -143,6 +144,6 @@ td {
 }
 
 .Disclaimer {
-  font-size: 0.75rem;
+  font-size: 12px;
   color: #E9D5CA;
 }

@@ -94,6 +94,10 @@ h3 {
   margin: 40px auto auto 15px;
 }
 
+.Liste {
+  line-height: 0.75;
+  font-size: 18px;
+}
 
 p {
   color: #363062;
